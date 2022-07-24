@@ -47,3 +47,20 @@ section{
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 10px;
 }
+#subscribe{
+    height: 300px;
+}
+.input-field{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+#container{
+    margin-bottom: 40px;
+}
+.bg-color{
+    background-color: rgb(29, 28, 28);
+    padding: 20px 0;
+    color: #fff;
+}
