@@ -26,6 +26,7 @@ section{
     padding: 10px 25px;
     border-radius: 10px;
 }
+
 .cat-1{
     background-color: darkgoldenrod;
 }
@@ -40,4 +41,9 @@ section{
 }
 .categories img{
     width: 120px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
 }
